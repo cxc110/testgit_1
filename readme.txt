@@ -12,4 +12,4 @@ Creating a new branch is quick & simple
 
 Creating a new branch is quick AND simple
 
-test add merge
+test add merge and bug
